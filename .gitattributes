@@ -1,0 +1,8 @@
+# Set the default behavior to automatically normalize line endings.
+* text=auto
+
+# Define how certain file types should be handled.
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.d.ts text eol=lf
